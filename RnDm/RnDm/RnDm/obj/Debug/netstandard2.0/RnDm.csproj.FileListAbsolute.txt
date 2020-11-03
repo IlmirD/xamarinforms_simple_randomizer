@@ -1,0 +1,24 @@
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\bin\Debug\netstandard2.0\RnDm.deps.json
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\bin\Debug\netstandard2.0\RnDm.dll
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\bin\Debug\netstandard2.0\RnDm.pdb
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.csprojAssemblyReference.cache
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.AssemblyInfoInputs.cache
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.AssemblyInfo.cs
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.dll
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.pdb
+D:\RnDm\RnDm\RnDm\RnDm\bin\Debug\netstandard2.0\RnDm.deps.json
+D:\RnDm\RnDm\RnDm\RnDm\bin\Debug\netstandard2.0\RnDm.dll
+D:\RnDm\RnDm\RnDm\RnDm\bin\Debug\netstandard2.0\RnDm.pdb
+D:\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.csprojAssemblyReference.cache
+D:\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.csproj.CoreCompileInputs.cache
+D:\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.AssemblyInfoInputs.cache
+D:\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.AssemblyInfo.cs
+D:\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\XamlC.stamp
+D:\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.dll
+D:\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\RnDm.pdb
+D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms" 
+             xmlns:local="clr-namespace:RnDm"
+             x:Class="RnDm.MainPage">
+    
+    <StackLayout>
+            <forms:AnimationView 
+	                x:Name="animationView" 
+	                Animation="4316-loading-gaocaisheng.json" 
+	                Loop="True" 
+	                AutoPlay="True"
+	                VerticalOptions="FillAndExpand" 
+	                HorizontalOptions="FillAndExpand"/>
+        
+            <FlexLayout x:Name="ShowRandom"
+                        Direction="Column"
+                        AlignItems="Center"
+                        JustifyContent="SpaceEvenly">
+
+            <Label x:Name="rndRes"
+                   Text=""
+                  FontSize="Large"/>
+
+            <Button x:Name="main"
+                    Text="Ok"/>
+        </FlexLayout>
+    </StackLayout>
+</ContentPage>

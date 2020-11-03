@@ -1,0 +1,54 @@
+@string/appbar_scrolling_view_behavior;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
+alpha;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
+android.support.v7.widget.RecyclerView;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+attr;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\1\jl\res\values\values.xml
+attr;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\values\attrs.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+bitmap;obj\Debug\90\res\drawable\screen_centered.xml
+color;obj\Debug\90\res\drawable\screen_centered.xml
+color;obj\Debug\90\res\values\colors.xml
+declare-styleable;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\1\jl\res\values\values.xml
+declare-styleable;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\values\attrs.xml
+enum;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\1\jl\res\values\values.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+item;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\1\jl\res\values\values.xml
+item;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+item;obj\Debug\90\res\drawable\screen_centered.xml
+item;obj\Debug\90\res\values\styles.xml
+layer-list;obj\Debug\90\res\drawable\screen_centered.xml
+LinearLayout;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+resources;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\1\jl\res\values\values.xml
+resources;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\values\attrs.xml
+resources;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\styles.xml
+set;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
+set;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
+set;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
+set;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
+style;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+style;obj\Debug\90\res\values\styles.xml
+translate;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
+translate;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
+translate;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
+translate;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\Visual Studio\Xamarin\RnDm\RnDm\RnDm\RnDm.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
